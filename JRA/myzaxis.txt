@@ -1,0 +1,7 @@
+zaxistype = pressure
+size      = 4
+name      = level
+longname  = pressure
+units     = hPa
+levels    = 1000, 850, 700, 500
+
